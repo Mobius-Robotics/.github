@@ -17,6 +17,8 @@ Welcome to **Mobius Robotics**, the robotics team of the University of Palermo! 
 - [kvasir_firmware](https://github.com/Mobius-Robotics/kvasir_firmware)
 - [kvasir_hw_interface](https://github.com/Mobius-Robotics/kvasir_hw_interface)
 - [kvasir_joystick_controller](https://github.com/Mobius-Robotics/kvasir_joystick_controller)
+- [kvasir_vision](https://github.com/Mobius-Robotics/kvasir_vision)
+
 
 
 ### 3. Spazz.ino
